@@ -138,6 +138,13 @@ h1{
     font-size: 100px;
 }
 
+h2{
+    font-family: var(--main-font-family);
+    color: var(--main-color-accent);
+    text-shadow: 0 0 10px rgb(0, 0, 0);
+    text-align: center; 
+}
+
 h3{
     font-family: var(--main-font-family);
     font-size: 50px;
